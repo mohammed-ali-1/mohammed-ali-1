@@ -4,4 +4,4 @@ My name is Mohammed Al-Ameen. I am a software engineer, originally from <a href=
 
 You can reach me on:
   - email: mohammed\~dot\~alameen[at]protonmail(dot)ch
-  - LinkedIn: (https://www.linkedin.com/in/moalameen/
+  - LinkedIn: https://www.linkedin.com/in/moalameen/
